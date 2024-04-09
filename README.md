@@ -2,7 +2,11 @@
 Wiki/Library For My Server
 
 ## Worldgen
-### Terralith
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
 ### Tectonic
 ### Arboria
 ### WWOO
