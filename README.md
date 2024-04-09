@@ -2,12 +2,14 @@
 Wiki/Library For My Server
 
 ## Worldgen
-- Terralith
-- Tectonic
-- Arboria
-- WWOO
+### Terralith
+### Tectonic
+### Arboria
+### WWOO
 ## Structures
-(WIP)
+- Terralith
+- Explorify
+- Structory (Coming soon)
 
 ## Mobs
 (WIP)
