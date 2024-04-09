@@ -1,7 +1,7 @@
 # Terralith
 
-<details style="font-size:30">
+<details>
 <summary>Biomes</summary>
 <br>
-This is how you dropdown.
+- ## h
 </details>
