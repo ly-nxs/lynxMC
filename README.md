@@ -2,14 +2,17 @@
 Wiki/Library For My Server
 
 ## Worldgen
-- Terralith
-- Tectonic
-- Arboria
-- TerraBlender
+- [Terralith](Terralith.md)
+- [Tectonic](Tectonic.md)
+- [Arboria](Arboria.md)
+- [TerraBlender](Terrablender.md)
 ## Structures
 - Terralith
 - Explorify
-- Structory (Coming soon)
+- Structory
+- Overhauled Villages
+- Tidal Towns
+- Yung's...
 
 ## Mobs
 (WIP)
