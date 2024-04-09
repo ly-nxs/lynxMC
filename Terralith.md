@@ -94,9 +94,14 @@ Diorite patches are WorldGen features added to Terralith in version 2.0.10. They
 
 ![Biome](https://static.miraheze.org/stardustlabswiki/thumb/e/ea/Diorite_patch%281%29_TL2.1.png/1920px-Diorite_patch%281%29_TL2.1.png)
 
- 
 
+</details>
 
+<details>
+  <summary>Structures</summary>
+  <br>
+
+WIP
   
 </details>
 
