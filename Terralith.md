@@ -1,8 +1,7 @@
 # Terralith
 
 <details>
-  <h2>
-<summary>Biomes</summary></h2>
+<summary>Biomes</summary>
 <br>
 This is how you dropdown.
 </details>
