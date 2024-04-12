@@ -1,9 +1,3 @@
 # Tectonic
 
-<details>
-  <summary>Worldgen</summary>
-  <br>
-
-
-  
-</details>
+Tectonic essentially makes the terrain more realistic
